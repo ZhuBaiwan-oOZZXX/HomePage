@@ -1,0 +1,66 @@
+title: HomePage
+description: 百万的个人主页
+language: zh-CN
+favicon: https://imgbed.zhubaiwan.me/file/icons/1744806223771_百万.ico
+
+hideVersion: false
+disableUpdateCheck: true
+
+statusStyle: "dot" # 设置绿点
+ping: http://127.0.0.1
+siteMonitor: http://127.0.0.1
+
+quicklaunch:
+  searchDescriptions: true
+  hideInternetSearch: false
+  showSearchSuggestions: true
+  hideVisitURL: false
+  provider: google # google, duckduckgo, bing, baidu, brave or cus`tom
+
+theme: dark 
+color: slate
+headerStyle: boxed
+useEqualHeights: true # 等高卡
+
+background: 
+  image: https://imgbed.zhubaiwan.me/file/wallpaper/1744789592765_【哲风壁纸】人物-动漫-动漫壁纸.png?auto=format&fit=crop&w=2560&q=80
+  opacity: 30 # 不透明度｜可以选择值为 0-100
+  # blur: sm # 模糊度｜sm（小）｜md（中等）｜xl（大）｜0（无模糊）
+  # brightness: 100 # 亮度｜可以选择值为 0｜50｜100
+  # saturate: 50 # 饱和度｜可以选择值为 0｜50｜100
+  # cardBlur: sm # 为服务和书签卡应用模糊滤镜｜sm（小）｜md（中等） 
+
+
+layout:
+  Group 1:
+    style: row
+    columns: 3
+    header: false # 隐藏首页标题
+    useEqualHeights: true # 等高卡
+    群组:
+      style: row
+      columns: 1
+      header: false
+    百万常用:
+      style: row
+      columns: 2
+      useEqualHeights: true # 等高卡
+    AI 服务:
+      style: row
+      columns: 2
+      useEqualHeights: true # 等高卡
+
+  Group 2:
+    style: row
+    columns: 3
+    header: false
+    useEqualHeights: true # 等高卡
+    ☁️开发工具/服务:
+      style: row
+      columns: 2
+    🖖百万搭建:
+      style: row
+      columns: 2
+    🛠️常用工具:
+      style: row
+      columns: 2
