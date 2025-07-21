@@ -20,14 +20,18 @@
             href: https://gethomepage.dev/configs/
             description: HomePage 官方文档
             icon: https://imgbed.zhubaiwan.me/file/icons/1744906160197_homepage.png
-        - 安徽理工大学:
-            href: https://www.aust.edu.cn/
-            description: 安徽理工大学官网
-            icon: https://upload.wikimedia.org/wikipedia/zh/thumb/8/87/AUST_logo.svg/200px-AUST_logo.svg.png
         - LinuxDo:
             href: https://linux.do/
             description: 一个真诚、友善、团结、专业的社区
             icon: https://avatars.githubusercontent.com/u/160804563
+        - 安徽理工大学:
+            href: https://www.aust.edu.cn/
+            description: 安徽理工大学官网
+            icon: https://upload.wikimedia.org/wikipedia/zh/thumb/8/87/AUST_logo.svg/200px-AUST_logo.svg.png
+        - Gist:
+            href: https://gist.github.com/mine
+            description: GitHub Gist 代码片段分享
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
         # - 大窝飞书文档:
         #     href: https://f0bhyxhlrjd.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
         #     description: 百万的大窝群规与分享文档
@@ -40,10 +44,6 @@
             href: https://www.bilibili.com/watchlater/list/
             description: 一键跳转你的 Bilibili
             icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
-        - Huggingface:
-            href: https://huggingface.co/pauper-tarot-chain/
-            description: 百万的 Huggingface 主页
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788106434_huggingface.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理 (百万私用)
