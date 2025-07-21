@@ -15,7 +15,7 @@
                 showTime: true
                 timezone: Asia/Shanghai
 
-    - 百万常用:
+    - 🚀百万常用:
         - HomePage 文档:
             href: https://gethomepage.dev/configs/
             description: HomePage 官方文档
@@ -44,7 +44,7 @@
             href: https://huggingface.co/pauper-tarot-chain/
             description: 百万的 Huggingface 主页
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788106434_huggingface.png
-        - NewAPI:
+        - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理 (百万私用)
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
@@ -57,40 +57,55 @@
         #     description: 百万的免费 AI 网站
         #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
 
-
-    - AI 服务:
-        - Google AI Studio:
-            href: https://aistudio.google.com/
-            description: Google AI 平台
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google AI Studio.ico
-        - QwenChat:
-            href: https://chat.qwen.ai/
-            description: 阿里 Qwen 官方海外站点
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744913596576_Qwen.png
-        - 豆包:
-            href: https://www.doubao.com/
-            description: 字节跳动公司开发的 AI 聊天机器人
-            icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
-        - DeepSeek:
-            href: https://chat.deepseek.com/
-            description: 由深度求索公司开发的智能 AI 助手
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
-        - Perplexity:
-            href: https://www.perplexity.ai/
-            description: Perplexity AI 搜索
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744913450715_Perplexity.png
-        - You.com:
-            href: https://you.com/
-            description: You.com 的 AI 聚合网站
-            icon: https://imgbed.zhubaiwan.me/file/icons/1746104251505_you.com.webp
-        - Grok 镜像:
-            href: https://grok.dairoot.cn/admin/
-            description: 由 xAI 开发的人工智能助手
-            icon: https://pbs.twimg.com/media/GkMq1KUbUAAE3U9?format=png
-        - Duck.ai:
-            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
-            description: 由 DuckDuckGo 提供的免费 AI 助手
-            icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
+    - 🌟百万搭建:
+        # - 百万API:
+        #     href: https://api.zhubaiwan.xyz/console/log
+        #     description: 百万 API 管理 (百万私用)
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
+        # - OpenWebUI:
+        #     href: https://chat.zhubaiwan.me/
+        #     description: 百万的免费 AI 网站
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
+        # - 订阅节点:
+        #     href: https://baiwan.zone.id/sub
+        #     description: 百万的免费订阅
+        #     icon: https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/refs/heads/dev/src-tauri/icons/icon.png
+        - Sub-Store:
+            href: https://sub.zhubaiwan.me/ 
+            description: 百万的订阅管理
+            icon: https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
+        - Subconverter RS:
+            href: https://sub.xunka.sbs/
+            description: 百万的订阅转换工具
+            icon: https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
+        - Cloudflare-Worker-Proxy:
+            href: http://proxy.zhubaiwan.me/
+            description: 基于 CF Worker 的 URL 代理服务
+            icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
+        - Cloud Mail:
+            href: https://lovebw.ggff.net/
+            description: 百万的域名邮箱
+            icon: https://i.111666.best/image/AbdfamlQ8ZphWybEODKohw.png
+        # - CloudPaste:
+        #     href: https://cloudpaste.zhubaiwan.me/
+        #     description: 百万的云端剪贴板
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
+        - MoonTV:
+            href: http://moontv.zhubaiwan.me/
+            description: MoonTV 影视站
+            icon: https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
+        - LibreTV:
+            href: http://libretv.zhubaiwan.me/
+            description: LibreTV 影视站
+            icon: https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
+        - 百万图床 (New):
+            href: https://imgbed.zhubaiwan.me/
+            description: 百万的图床 (新)
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
+        - 百万图床 (Outdated):
+            href: https://pic.lovebw.ddns-ip.net/
+            description: 百万的图床 (旧)
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
 
 
 - Group 2:
@@ -111,14 +126,18 @@
             href: https://console.run.claw.cloud/
             description: Claw Cloud 应用部署平台
             icon: https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/6925dde13cfb44c694cce5f7b2f3cdab.webp
+        - Render:
+            href: https://dashboard.render.com/
+            description: Render 云托管平台
+            icon: https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAIdZWh-V6CA8crYzR9FpAn7FaYOGRvvAAL8xTEbEPTwV2Ij39Z5SoYLAQADAgADeAADNgQ.png
         - Aliyun:
             href: https://cn.aliyun.com/
             description: 阿里云云计算服务平台
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788095307_ali.png
-        - 腾讯云:
-            href: https://cloud.tencent.com/
-            description: 腾讯云云计算服务平台
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744915470468_腾讯云.png
+        # - 腾讯云:
+        #     href: https://cloud.tencent.com/
+        #     description: 腾讯云云计算服务平台
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744915470468_腾讯云.png
         - Deno:
             href: https://dash.deno.com/
             description: Deno 运行时部署平台
@@ -144,56 +163,55 @@
             description: Koofr 云存储与 WebDAV 服务
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795376085_koofr.png
 
-    - 🖖百万搭建:
-        - NewAPI:
-            href: https://api.zhubaiwan.xyz/token/
-            description: 百万 API 管理 (百万私用)
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
-        - OpenWebUI:
-            href: https://chat.zhubaiwan.me/
-            description: 百万的免费 AI 网站
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
-        - Sub-Store:
-            href: https://pauper-tarot-chain-qwensite.hf.space/
-            description: 百万的订阅管理
-            icon: https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
-        - 订阅节点:
-            href: https://baiwan.zone.id/sub
-            description: 百万的免费订阅
-            icon: https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/refs/heads/dev/src-tauri/icons/icon.png
-        - Cloud Mail:
-            href: https://lovebw.ggff.net/
-            description: 百万的域名邮箱
-            icon: https://i.111666.best/image/AbdfamlQ8ZphWybEODKohw.png
-        - Subconverter RS:
-            href: https://sub.xunka.sbs/
-            description: 百万的订阅转换工具
-            icon: https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
-        - Cloudflare-Worker-Proxy:
-            href: http://proxy.zhubaiwan.me/
-            description: 基于 CF Worker 的 URL 代理服务
-            icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
-        - CloudPaste:
-            href: https://cloudpaste.zhubaiwan.me/
-            description: 百万的云端剪贴板
-            icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
-        - MoonTV:
-            href: http://moontv.zhubaiwan.me/
-            description: MoonTV 影视站
-            icon: https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
-        - LibreTV:
-            href: http://libretv.zhubaiwan.me/
-            description: LibreTV 影视站
-            icon: https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
-        - 百万图床 (New):
-            href: https://imgbed.zhubaiwan.me/
-            description: 百万的图床 (新)
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
-        - 百万图床 (Outdated):
-            href: https://pic.lovebw.ddns-ip.net/
-            description: 百万的图床 (旧)
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
-
+    - 🌈AI 服务:
+        - Google AI Studio:
+            href: https://aistudio.google.com/
+            description: Google AI 平台
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google AI Studio.ico
+        - Grok 镜像:
+            href: https://grok.dairoot.cn/admin/
+            description: 由 xAI 开发的人工智能助手
+            icon: https://pbs.twimg.com/media/GkMq1KUbUAAE3U9?format=png
+        - QwenChat:
+            href: https://chat.qwen.ai/
+            description: 阿里 Qwen 官方海外站点
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744913596576_Qwen.png
+        - Z.ai:
+            href: https://chat.z.ai/
+            description: THUKEG ChatGLM 官方海外站点
+            icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
+        - 腾讯元宝:
+            href: https://yuanbao.tencent.com/
+            description: 腾讯元宝 AI 助手
+            icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
+        - 豆包:
+            href: https://www.doubao.com/
+            description: 字节跳动公司开发的 AI 聊天机器人
+            icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
+        - DeepSeek:
+            href: https://chat.deepseek.com/
+            description: 由深度求索公司开发的智能 AI 助手
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
+        - Kimi:
+            href: https://www.kimi.com/
+            description: 由 Kimi 公司开发的 AI 助手
+            icon: https://i0.img2ipfs.com/ipfs/QmNwGZEuW4GCevA4tGjxUR3HWnmaU4AojHy5kyF5VpaZE6?filename=kimi.webp
+        - Perplexity:
+            href: https://www.perplexity.ai/
+            description: Perplexity AI 搜索
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744913450715_Perplexity.png
+        - You.com:
+            href: https://you.com/
+            description: You.com 的 AI 聚合网站
+            icon: https://imgbed.zhubaiwan.me/file/icons/1746104251505_you.com.webp
+        - 当贝 AI:
+            href: https://ai.dangbei.com/
+            description: 当贝 AI 大模型聚合
+            icon: https://simg.doyo.cn/imgfile/bgame/202505/0910003968b3.JPG
+        - Duck.ai:
+            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
+            description: 由 DuckDuckGo 提供的免费 AI 助手
+            icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
 
     - 🛠️常用工具:
         - 订阅转换:
