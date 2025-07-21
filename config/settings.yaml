@@ -41,14 +41,13 @@ layout:
       style: row
       columns: 1
       header: false
-    百万常用:
+    🚀百万常用:
       style: row
       columns: 2
       useEqualHeights: true # 等高卡
-    AI 服务:
+    🌟百万搭建:
       style: row
       columns: 2
-      useEqualHeights: true # 等高卡
 
   Group 2:
     style: row
@@ -58,9 +57,10 @@ layout:
     ☁️开发工具/服务:
       style: row
       columns: 2
-    🖖百万搭建:
+    🌈AI 服务:
       style: row
       columns: 2
+      useEqualHeights: true # 等高卡
     🛠️常用工具:
       style: row
       columns: 2
