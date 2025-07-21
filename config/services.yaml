@@ -180,22 +180,22 @@
             href: https://chat.z.ai/
             description: THUKEG ChatGLM 官方海外站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
-        - 腾讯元宝:
-            href: https://yuanbao.tencent.com/
-            description: 腾讯元宝 AI 助手
-            icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         - 豆包:
             href: https://www.doubao.com/
             description: 字节跳动公司开发的 AI 聊天机器人
             icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
-        - DeepSeek:
-            href: https://chat.deepseek.com/
-            description: 由深度求索公司开发的智能 AI 助手
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
+        - 腾讯元宝:
+            href: https://yuanbao.tencent.com/
+            description: 腾讯元宝 AI 助手
+            icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         - Kimi:
             href: https://www.kimi.com/
             description: 由 Kimi 公司开发的 AI 助手
             icon: https://i0.img2ipfs.com/ipfs/QmNwGZEuW4GCevA4tGjxUR3HWnmaU4AojHy5kyF5VpaZE6?filename=kimi.webp
+        - DeepSeek:
+            href: https://chat.deepseek.com/
+            description: 由深度求索公司开发的智能 AI 助手
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
         - Perplexity:
             href: https://www.perplexity.ai/
             description: Perplexity AI 搜索
