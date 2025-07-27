@@ -10,11 +10,16 @@
 
 - openmeteo:
     label: 安理💖 # optional
-    longitude: 117.0271 # 经度  
-    latitude: 32.5494 # 纬度
-    timezone: Asia/Shanghai # 时区
-    units: metric # 使用公制单位（例如米、千克、摄氏度等）
-    cache: 5 # 刷新时间（分钟）
+    # 经度 
+    longitude: 117.0271
+    # 纬度
+    latitude: 32.5494
+    # 时区
+    timezone: Asia/Shanghai
+    # 使用公制单位（例如米、千克、摄氏度等）
+    units: metric
+    # 刷新时间（分钟）
+    cache: 5
 
 - greeting:
     text_size: xl
@@ -23,8 +28,9 @@
 - search:
     provider: [google, duckduckgo, bing, baidu, brave]
     focus: false 
-    showSearchSuggestions: true 
-    target: _blank # One of _self, _blank, _parent or _top
+    showSearchSuggestions: true
+    # One of _self, _blank, _parent or _top
+    target: _blank
 
 - datetime:
     text_size: xl
