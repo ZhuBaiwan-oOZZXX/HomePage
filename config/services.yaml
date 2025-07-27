@@ -16,10 +16,14 @@
                 timezone: Asia/Shanghai
 
     - 🚀百万常用:
-        - HomePage 文档:
-            href: https://gethomepage.dev/configs/
-            description: HomePage 官方文档
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744906160197_homepage.png
+        # - HomePage 文档:
+        #     href: https://gethomepage.dev/configs/
+        #     description: HomePage 官方文档
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744906160197_homepage.png
+        - 大窝飞书文档:
+            href: https://f0bhyxhlrjd.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
+            description: 百万的大窝群规与分享文档
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744905989241_飞书.png
         - LinuxDo:
             href: https://linux.do/
             description: 一个真诚、友善、团结、专业的社区
@@ -27,22 +31,18 @@
         - 安徽理工大学:
             href: https://www.aust.edu.cn/
             description: 安徽理工大学官网
-            icon: https://upload.wikimedia.org/wikipedia/zh/thumb/8/87/AUST_logo.svg/200px-AUST_logo.svg.png
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
         - Gist:
             href: https://gist.github.com/mine
             description: GitHub Gist 代码片段分享
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
-        # - 大窝飞书文档:
-        #     href: https://f0bhyxhlrjd.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
-        #     description: 百万的大窝群规与分享文档
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744905989241_飞书.png
         - 抖音:
             href: https://www.douyin.com/
             description: 抖音-记录美好生活
             icon: https://imgbed.zhubaiwan.me/file/icons/1746105423714_抖音.png
         - Bilibili:
             href: https://www.bilibili.com/watchlater/list/
-            description: 一键跳转你的 Bilibili
+            description: Bilibili Watchlater List
             icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
@@ -73,11 +73,12 @@
         - Sub-Store:
             href: https://sub.zhubaiwan.me/ 
             description: 百万的订阅管理
-            icon: https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
+            # icon: https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/QxpY/800X800/Sub-Store.png
         - Subconverter RS:
             href: https://sub.xunka.sbs/
             description: 百万的订阅转换工具
-            icon: https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
+            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
         - Cloudflare-Worker-Proxy:
             href: http://proxy.zhubaiwan.me/
             description: 基于 CF Worker 的 URL 代理服务
@@ -93,11 +94,11 @@
         - MoonTV:
             href: http://moontv.zhubaiwan.me/
             description: MoonTV 影视站
-            icon: https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
+            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
         - LibreTV:
             href: http://libretv.zhubaiwan.me/
             description: LibreTV 影视站
-            icon: https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
+            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
         - 百万图床 (New):
             href: https://imgbed.zhubaiwan.me/
             description: 百万的图床 (新)
@@ -129,7 +130,7 @@
         - Render:
             href: https://dashboard.render.com/
             description: Render 云托管平台
-            icon: https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAIdZWh-V6CA8crYzR9FpAn7FaYOGRvvAAL8xTEbEPTwV2Ij39Z5SoYLAQADAgADeAADNgQ.png
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/Eujj/400X400/zOO1N7Su_400x400.jpg
         - Aliyun:
             href: https://cn.aliyun.com/
             description: 阿里云云计算服务平台
@@ -191,7 +192,7 @@
         - Kimi:
             href: https://www.kimi.com/
             description: 由 Kimi 公司开发的 AI 助手
-            icon: https://i0.img2ipfs.com/ipfs/QmNwGZEuW4GCevA4tGjxUR3HWnmaU4AojHy5kyF5VpaZE6?filename=kimi.webp
+            icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
         - DeepSeek:
             href: https://chat.deepseek.com/
             description: 由深度求索公司开发的智能 AI 助手
@@ -261,4 +262,4 @@
         - Cherry Studio:
             href: https://www.cherry-ai.com/
             description: 多平台的 AI 客户端
-            icon: https://github.com/CherryHQ/cherry-studio/blob/main/build/icon.png?raw=true
+            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
