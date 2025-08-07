@@ -32,21 +32,25 @@
             href: https://www.aust.edu.cn/
             description: 安徽理工大学官网
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
-        - Gist:
-            href: https://gist.github.com/mine
-            description: GitHub Gist 代码片段分享
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
         - 抖音:
             href: https://www.douyin.com/
             description: 抖音-记录美好生活
             icon: https://imgbed.zhubaiwan.me/file/icons/1746105423714_抖音.png
-        - Bilibili:
-            href: https://www.bilibili.com/watchlater/list/
-            description: Bilibili Watchlater List
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
+        # - Bilibili:
+        #     href: https://www.bilibili.com/watchlater/list/
+        #     description: Bilibili Watchlater List
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
+        - Gist:
+            href: https://gist.github.com/mine
+            description: GitHub Gist 代码片段分享
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
+        - raw-access:
+            href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
+            description: 通过 cloudflare 访问私人仓库
+            icon: https://edit-upload-pic.cdn.bcebos.com/19fca6bf5bedc3a4dd73a49d80848f12.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A09%3A37Z%2F3600%2Fhost%2F68bf1ac5636e0dce2205fc1ed465581800b1b8791fd854c703119d6a62291c61
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
-            description: 百万 API 管理 (百万私用)
+            description: 百万 API 管理
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
         - Zone.id:
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
@@ -60,7 +64,7 @@
     - 🌟百万搭建:
         # - 百万API:
         #     href: https://api.zhubaiwan.xyz/console/log
-        #     description: 百万 API 管理 (百万私用)
+        #     description: 百万 API 管理
         #     icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
         # - OpenWebUI:
         #     href: https://chat.zhubaiwan.me/
@@ -80,9 +84,17 @@
             description: 百万的订阅转换工具
             icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
         - Cloudflare-Worker-Proxy:
-            href: http://proxy.zhubaiwan.me/
+            href: https://proxy.zhubaiwan.me/
             description: 基于 CF Worker 的 URL 代理服务
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
+        - LibreTV:
+            href: https://tv.zhubaiwan.me/
+            description: LibreTV 影视站
+            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
+        - Model-Get: 
+            href: https://model-get.zhubaiwan-oozzxx.me/
+            description: 获取模型与生成 NewAPI 模型映射
+            icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
         - Cloud Mail:
             href: https://lovebw.ggff.net/
             description: 百万的域名邮箱
@@ -91,14 +103,10 @@
         #     href: https://cloudpaste.zhubaiwan.me/
         #     description: 百万的云端剪贴板
         #     icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
-        - MoonTV:
-            href: http://moontv.zhubaiwan.me/
-            description: MoonTV 影视站
-            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
-        - LibreTV:
-            href: http://libretv.zhubaiwan.me/
-            description: LibreTV 影视站
-            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
+        # - MoonTV:
+        #     href: https://moontv.zhubaiwan.me/
+        #     description: MoonTV 影视站
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
         - 百万图床 (New):
             href: https://imgbed.zhubaiwan.me/
             description: 百万的图床 (新)
@@ -216,7 +224,7 @@
 
     - 🛠️常用工具:
         - 订阅转换:
-            href: https://subweb.7li7li.com/
+            href: https://suburl.v1.mk/
             description: 订阅转换1
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/LSbY/200X200/converter.png
         - 订阅转换 2:
