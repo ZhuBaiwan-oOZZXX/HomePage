@@ -27,7 +27,7 @@
         - LinuxDo:
             href: https://linux.do/
             description: 一个真诚、友善、团结、专业的社区
-            icon: https://avatars.githubusercontent.com/u/160804563
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/3hp6/460X460/linuxdo.png
         - 安徽理工大学:
             href: https://www.aust.edu.cn/
             description: 安徽理工大学官网
@@ -40,14 +40,14 @@
         #     href: https://www.bilibili.com/watchlater/list/
         #     description: Bilibili Watchlater List
         #     icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
-        - Gist:
-            href: https://gist.github.com/mine
-            description: GitHub Gist 代码片段分享
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
         - raw-access:
             href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
             description: 通过 cloudflare 访问私人仓库
             icon: https://edit-upload-pic.cdn.bcebos.com/19fca6bf5bedc3a4dd73a49d80848f12.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A09%3A37Z%2F3600%2Fhost%2F68bf1ac5636e0dce2205fc1ed465581800b1b8791fd854c703119d6a62291c61
+        - Gist:
+            href: https://gist.github.com/mine
+            description: GitHub Gist 代码片段分享
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理
@@ -135,7 +135,8 @@
         - Claw Cloud:
             href: https://console.run.claw.cloud/
             description: Claw Cloud 应用部署平台
-            icon: https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/6925dde13cfb44c694cce5f7b2f3cdab.webp
+            # icon: https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/6925dde13cfb44c694cce5f7b2f3cdab.webp
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/vojA/170X170/claw.webp
         - Render:
             href: https://dashboard.render.com/
             description: Render 云托管平台
@@ -177,35 +178,35 @@
     - 🌈AI 服务:
         - Google AI Studio:
             href: https://aistudio.google.com/
-            description: Google AI 平台
+            description: Google AI Studio 平台
             icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google AI Studio.ico
         - Grok 镜像:
             href: https://grok.dairoot.cn/admin/
-            description: 由 xAI 开发的人工智能助手
+            description: 由 xAI 开发的大语言模型
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/Cl2x/1200X1200/grok.png
         - QwenChat:
             href: https://chat.qwen.ai/
-            description: 阿里 Qwen 官方海外站点
+            description: 阿里 Qwen 官方站点
             icon: https://imgbed.zhubaiwan.me/file/icons/1744913596576_Qwen.png
         - Z.ai:
             href: https://chat.z.ai/
-            description: THUKEG ChatGLM 官方海外站点
+            description: ChatGLM 官方站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
         - 豆包:
             href: https://www.doubao.com/
-            description: 字节跳动公司开发的 AI 聊天机器人
+            description: 字节跳动公司开发的大语言模型
             icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
         - 腾讯元宝:
             href: https://yuanbao.tencent.com/
-            description: 腾讯元宝 AI 助手
+            description: 腾讯元宝大语言模型
             icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         - Kimi:
             href: https://www.kimi.com/
-            description: 由 Kimi 公司开发的 AI 助手
+            description: 由 Kimi 公司开发的大语言模型
             icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
         - DeepSeek:
             href: https://chat.deepseek.com/
-            description: 由深度求索公司开发的智能 AI 助手
+            description: 由深度求索开发的智能大语言模型
             icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
         - Perplexity:
             href: https://www.perplexity.ai/
