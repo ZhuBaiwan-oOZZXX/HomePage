@@ -55,7 +55,7 @@
         - Zone.id:
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
             description: Zone.id 免费域名
-            icon: https://i.111666.best/image/upvDriUv5cIjFO3B01Obqv.png
+            icon: https://edit-upload-pic.cdn.bcebos.com/732ee8387572719cf8c07bcf81fb0e00.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A42%3A04Z%2F3600%2Fhost%2Fcdbc8068d5dc4b5f57f02e93edd75b68be1feed76eec7e909e6ec27334c26f22
         # - OpenWebUI:
         #     href: https://chat.zhubaiwan.me/
         #     description: 百万的免费 AI 网站
@@ -98,7 +98,8 @@
         - Cloud Mail:
             href: https://lovebw.ggff.net/
             description: 百万的域名邮箱
-            icon: https://i.111666.best/image/AbdfamlQ8ZphWybEODKohw.png
+            # icon: https://i.111666.best/image/AbdfamlQ8ZphWybEODKohw.png
+            icon: https://edit-upload-pic.cdn.bcebos.com/01889fe6088317e0e9783ab85b04dcb3.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A44%3A53Z%2F3600%2Fhost%2F4a7c43f4ac29f705d406ceb4bcd4a98467d2e5bf472ba03090a60babd3f71560
         # - CloudPaste:
         #     href: https://cloudpaste.zhubaiwan.me/
         #     description: 百万的云端剪贴板
@@ -162,7 +163,8 @@
         - Zone.id:
             href: https://zone.id/
             description: Zone.id 免费域名
-            icon: https://i.111666.best/image/upvDriUv5cIjFO3B01Obqv.png
+            # icon: https://i.111666.best/image/upvDriUv5cIjFO3B01Obqv.png
+            icon: https://edit-upload-pic.cdn.bcebos.com/732ee8387572719cf8c07bcf81fb0e00.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A42%3A04Z%2F3600%2Fhost%2Fcdbc8068d5dc4b5f57f02e93edd75b68be1feed76eec7e909e6ec27334c26f22
         - Aiven:
             href: https://console.aiven.io/
             description: Aiven 云数据库管理平台
