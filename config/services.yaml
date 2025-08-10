@@ -9,7 +9,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788995930_favicon.ico
             widget:
                 type: calendar
-                firstDayInWeek: monday # optional - defaults to monday
+                firstDayInWeek: sunday # optional - defaults to monday
                 view: monthly # optional - possible values monthly, agenda
                 maxEvents: 10 # optional - defaults to 10
                 showTime: true
@@ -43,7 +43,7 @@
         - raw-access:
             href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
             description: 通过 cloudflare 访问私人仓库
-            icon: https://edit-upload-pic.cdn.bcebos.com/19fca6bf5bedc3a4dd73a49d80848f12.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A09%3A37Z%2F3600%2Fhost%2F68bf1ac5636e0dce2205fc1ed465581800b1b8791fd854c703119d6a62291c61
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/6WZb/200X200/raw.png
         - Gist:
             href: https://gist.github.com/mine
             description: GitHub Gist 代码片段分享
@@ -55,7 +55,7 @@
         - Zone.id:
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
             description: Zone.id 免费域名
-            icon: https://edit-upload-pic.cdn.bcebos.com/732ee8387572719cf8c07bcf81fb0e00.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A42%3A04Z%2F3600%2Fhost%2Fcdbc8068d5dc4b5f57f02e93edd75b68be1feed76eec7e909e6ec27334c26f22
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
         # - OpenWebUI:
         #     href: https://chat.zhubaiwan.me/
         #     description: 百万的免费 AI 网站
@@ -98,8 +98,7 @@
         - Cloud Mail:
             href: https://lovebw.ggff.net/
             description: 百万的域名邮箱
-            # icon: https://i.111666.best/image/AbdfamlQ8ZphWybEODKohw.png
-            icon: https://edit-upload-pic.cdn.bcebos.com/01889fe6088317e0e9783ab85b04dcb3.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A44%3A53Z%2F3600%2Fhost%2F4a7c43f4ac29f705d406ceb4bcd4a98467d2e5bf472ba03090a60babd3f71560
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/svwP/200X200/email.png
         # - CloudPaste:
         #     href: https://cloudpaste.zhubaiwan.me/
         #     description: 百万的云端剪贴板
@@ -164,8 +163,7 @@
         - Zone.id:
             href: https://zone.id/
             description: Zone.id 免费域名
-            # icon: https://i.111666.best/image/upvDriUv5cIjFO3B01Obqv.png
-            icon: https://edit-upload-pic.cdn.bcebos.com/732ee8387572719cf8c07bcf81fb0e00.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A42%3A04Z%2F3600%2Fhost%2Fcdbc8068d5dc4b5f57f02e93edd75b68be1feed76eec7e909e6ec27334c26f22
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
         - Aiven:
             href: https://console.aiven.io/
             description: Aiven 云数据库管理平台
