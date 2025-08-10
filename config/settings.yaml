@@ -26,7 +26,7 @@ headerStyle: boxed
 useEqualHeights: true
 
 background: 
-  image: https://edit-upload-pic.cdn.bcebos.com/e742a2f5e996dd1180f04c015b3c8fe8.jpeg?authorization=bce-auth-v1%2FALTAKh1mxHnNIyeO93hiasKJqq%2F2025-08-07T04%3A48%3A13Z%2F3600%2Fhost%2Fa122f77c4dfb5d08d1b841f12584798e4f629ead60050a955b359cefcc623e67
+  image: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/jZ1V/3840X2160/cover.png
   # 不透明度｜可以选择值为 0-100
   opacity: 30
   # blur: sm # 模糊度｜sm（小）｜md（中等）｜xl（大）｜0（无模糊）
