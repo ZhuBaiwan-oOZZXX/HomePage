@@ -34,7 +34,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
         - Uni-API:
             href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
-            description: 
+            description: 统一管理大模型 API
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
         - 安理工一卡通:
             href: http://ecard.aust.edu.cn/epay/
@@ -213,14 +213,14 @@
             href: https://chat.z.ai/
             description: ChatGLM 官方站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
-        - 腾讯元宝:
-            href: https://yuanbao.tencent.com/
-            description: 腾讯元宝大语言模型
-            icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         - Kimi:
             href: https://www.kimi.com/
             description: 由 Kimi 公司开发的大语言模型
             icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
+        - 腾讯元宝:
+            href: https://yuanbao.tencent.com/
+            description: 腾讯元宝大语言模型
+            icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         - LongCat:
             href: https://longcat.chat/
             description: 美团龙猫大模型
