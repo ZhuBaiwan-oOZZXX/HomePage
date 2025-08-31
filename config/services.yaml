@@ -6,7 +6,7 @@
         - 百万的大窝:
             href: https://qm.qq.com/q/F2b0lzn5wm
             description: 点击卡片加入群聊【百万的大窝】
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788995930_favicon.ico
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/R3G9/512X512/baiwan.png
             widget:
                 type: calendar
                 firstDayInWeek: sunday # optional - defaults to monday
@@ -28,18 +28,18 @@
             href: https://linux.do/
             description: 一个真诚、友善、团结、专业的社区
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/3hp6/460X460/linuxdo.png
-        - 安徽理工大学:
-            href: https://www.aust.edu.cn/
+        - 百万 API:
+            href: https://api.zhubaiwan.xyz/console/log
+            description: 百万 API 管理
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
+        - Uni-API:
+            href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
+            description: 
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
+        - 安理工一卡通:
+            href: http://ecard.aust.edu.cn/epay/
             description: 安徽理工大学官网
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
-        - 抖音:
-            href: https://www.douyin.com/
-            description: 抖音-记录美好生活
-            icon: https://imgbed.zhubaiwan.me/file/icons/1746105423714_抖音.png
-        # - Bilibili:
-        #     href: https://www.bilibili.com/watchlater/list/
-        #     description: Bilibili Watchlater List
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
         - raw-access:
             href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
             description: 通过 cloudflare 访问私人仓库
@@ -48,65 +48,45 @@
             href: https://gist.github.com/mine
             description: GitHub Gist 代码片段分享
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
-        - 百万 API:
-            href: https://api.zhubaiwan.xyz/console/log
-            description: 百万 API 管理
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
         - Zone.id:
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
             description: Zone.id 免费域名
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
+        # - Bilibili:
+        #     href: https://www.bilibili.com/watchlater/list/
+        #     description: Bilibili Watchlater List
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
         # - OpenWebUI:
         #     href: https://chat.zhubaiwan.me/
         #     description: 百万的免费 AI 网站
         #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
 
     - 🌟百万搭建:
-        # - 百万API:
-        #     href: https://api.zhubaiwan.xyz/console/log
-        #     description: 百万 API 管理
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
-        # - OpenWebUI:
-        #     href: https://chat.zhubaiwan.me/
-        #     description: 百万的免费 AI 网站
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
-        # - 订阅节点:
-        #     href: https://baiwan.zone.id/sub
-        #     description: 百万的免费订阅
-        #     icon: https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/refs/heads/dev/src-tauri/icons/icon.png
         - Sub-Store:
             href: https://sub.zhubaiwan.me/ 
             description: 百万的订阅管理
             # icon: https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/QxpY/800X800/Sub-Store.png
-        - Subconverter RS:
-            href: https://sub.xunka.sbs/
-            description: 百万的订阅转换工具
-            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
         - Cloudflare-Worker-Proxy:
             href: https://proxy.zhubaiwan.me/
             description: 基于 CF Worker 的 URL 代理服务
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
-        - LibreTV:
-            href: https://tv.zhubaiwan.me/
-            description: LibreTV 影视站
-            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
+        - 百万 API:
+            href: https://api.zhubaiwan.xyz/console/log
+            description: 百万 API 管理
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
+        - gpt-load:
+            href: https://gpt-load.zhubaiwan-oozzxx.me/
+            description: 高性能 API 均衡负载
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/xKaE/1024X1024/gpt-load.png
         - Model-Get: 
             href: https://model-get.zhubaiwan-oozzxx.me/
             description: 获取模型与生成 NewAPI 模型映射
             icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
-        - Cloud Mail:
-            href: https://lovebw.ggff.net/
-            description: 百万的域名邮箱
-            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/svwP/200X200/email.png
-        # - CloudPaste:
-        #     href: https://cloudpaste.zhubaiwan.me/
-        #     description: 百万的云端剪贴板
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
-        # - MoonTV:
-        #     href: https://moontv.zhubaiwan.me/
-        #     description: MoonTV 影视站
-        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
+        - BW-model:
+            href: https://bw-model.deno.dev/
+            description: 百万 API 模型列表
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/R3G9/512X512/baiwan.png
         - 百万图床 (New):
             href: https://imgbed.zhubaiwan.me/
             description: 百万的图床 (新)
@@ -115,7 +95,34 @@
             href: https://pic.lovebw.ddns-ip.net/
             description: 百万的图床 (旧)
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
-
+        # - OpenWebUI:
+        #     href: https://chat.zhubaiwan.me/
+        #     description: 百万的免费 AI 网站
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
+        # - 订阅节点:
+        #     href: https://baiwan.zone.id/sub
+        #     description: 百万的免费订阅
+        #     icon: https://raw.githubusercontent.com/clash-verge-rev/clash-verge-rev/refs/heads/dev/src-tauri/icons/icon.png
+        # - Subconverter RS:
+        #     href: https://sub.xunka.sbs/
+        #     description: 百万的订阅转换工具
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/lonelam/subconverter-rs/refs/heads/main/www/public/logo.svg
+        # - LibreTV:
+        #     href: https://tv.zhubaiwan.me/
+        #     description: LibreTV 影视站
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/LibreSpark/LibreTV/refs/heads/main/image/logo.png
+        # - Cloud Mail:
+        #     href: https://lovebw.ggff.net/
+        #     description: 百万的域名邮箱
+        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/svwP/200X200/email.png
+        # - CloudPaste:
+        #     href: https://cloudpaste.zhubaiwan.me/
+        #     description: 百万的云端剪贴板
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
+        # - MoonTV:
+        #     href: https://moontv.zhubaiwan.me/
+        #     description: MoonTV 影视站
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/senshinya/MoonTV/main/public/logo.png
 
 - Group 2:
     - ☁️开发工具/服务:
@@ -174,14 +181,30 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795376085_koofr.png
 
     - 🌈AI 服务:
+        - 豆包:
+            href: https://www.doubao.com/
+            description: 字节跳动公司开发的大语言模型
+            icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
+        - DeepSeek:
+            href: https://chat.deepseek.com/
+            description: 由深度求索开发的智能大语言模型
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
         - Google AI Studio:
             href: https://aistudio.google.com/
             description: Google AI Studio 平台
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google AI Studio.ico
-        - Grok 镜像:
-            href: https://grok.dairoot.cn/admin/
-            description: 由 xAI 开发的大语言模型
-            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/Cl2x/1200X1200/grok.png
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google%20AI%20Studio.ico
+        - Duck.ai:
+            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
+            description: 由 DuckDuckGo 提供的免费 AI 助手
+            icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
+        - Perplexity:
+            href: https://www.perplexity.ai/
+            description: Perplexity AI 搜索
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744913450715_Perplexity.png
+        - 秘塔:
+            href: https://metaso.cn/
+            description: 秘塔 AI 搜索
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/c3Ob/1067X654/mita.png
         - QwenChat:
             href: https://chat.qwen.ai/
             description: 阿里 Qwen 官方站点
@@ -190,10 +213,6 @@
             href: https://chat.z.ai/
             description: ChatGLM 官方站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
-        - 豆包:
-            href: https://www.doubao.com/
-            description: 字节跳动公司开发的大语言模型
-            icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
         - 腾讯元宝:
             href: https://yuanbao.tencent.com/
             description: 腾讯元宝大语言模型
@@ -202,26 +221,22 @@
             href: https://www.kimi.com/
             description: 由 Kimi 公司开发的大语言模型
             icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
-        - DeepSeek:
-            href: https://chat.deepseek.com/
-            description: 由深度求索开发的智能大语言模型
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
-        - Perplexity:
-            href: https://www.perplexity.ai/
-            description: Perplexity AI 搜索
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744913450715_Perplexity.png
-        - You.com:
-            href: https://you.com/
-            description: You.com 的 AI 聚合网站
-            icon: https://imgbed.zhubaiwan.me/file/icons/1746104251505_you.com.webp
+        - LongCat:
+            href: https://longcat.chat/
+            description: 美团龙猫大模型
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/OHKC/80X80/longcat.png
         - 当贝 AI:
             href: https://ai.dangbei.com/
             description: 当贝 AI 大模型聚合
             icon: https://simg.doyo.cn/imgfile/bgame/202505/0910003968b3.JPG
-        - Duck.ai:
-            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
-            description: 由 DuckDuckGo 提供的免费 AI 助手
-            icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
+        # - Grok 镜像:
+        #     href: https://grok.dairoot.cn/admin/
+        #     description: 由 xAI 开发的大语言模型
+        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/Cl2x/1200X1200/grok.png
+        # - You.com:
+        #     href: https://you.com/
+        #     description: You.com 的 AI 聚合网站
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1746104251505_you.com.webp
 
     - 🛠️常用工具:
         - 订阅转换:
@@ -232,6 +247,30 @@
             href: https://singbox.nyc.mn/
             description: 订阅转换2
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/LSbY/200X200/converter.png
+        - 抖音:
+            href: https://www.douyin.com/
+            description: 抖音-记录美好生活
+            icon: https://imgbed.zhubaiwan.me/file/icons/1746105423714_抖音.png
+        - 学习通:
+            href: https://i.chaoxing.com/
+            description: 超新学习通
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744796056894_学习通.png
+        - 4K 高清壁纸:
+            href: https://haowallpaper.com/
+            description: 4K 高清壁纸免费下载
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788114946_wallpaper.png
+        - Icons:
+            href: https://www.iconfont.cn/
+            description: 阿里巴巴 icons 图标库
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795791341_ali-icon.png
+        - Zlibrary:
+            href: https://z-library.sk/
+            description: Z-library HomePage
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788117323_z-library.png
+        - 安娜的档案:
+            href: https://zh.annas-archive.org/
+            description: 最大的完全开放的图书馆
+            icon: https://cdn-1.webcatalog.io/catalog/annas-archive/annas-archive-icon-filled-256.webp
         - PING0:
             href: https://ip.ping0.cc/
             description: IP 查询检测
@@ -248,27 +287,7 @@
             href: https://greasyfork.org/zh-CN
             description: 油猴脚本下载
             icon: https://pic.macked.app/static/2601dfda710c35f87d2673aaf13550bc-1702962186.webp
-        - Zlibrary:
-            href: https://z-library.sk/
-            description: Z-library HomePage
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788117323_z-library.png
-        - 安娜的档案:
-            href: https://zh.annas-archive.org/
-            description: 最大的完全开放的图书馆
-            icon: https://cdn-1.webcatalog.io/catalog/annas-archive/annas-archive-icon-filled-256.webp
-        - 4K 高清壁纸:
-            href: https://haowallpaper.com/
-            description: 4K 高清壁纸免费下载
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788114946_wallpaper.png
-        - Icons:
-            href: https://www.iconfont.cn/
-            description: 阿里巴巴 icons 图标库
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744795791341_ali-icon.png
-        - 学习通:
-            href: https://i.chaoxing.com/
-            description: 超新学习通
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744796056894_学习通.png
-        - Cherry Studio:
-            href: https://www.cherry-ai.com/
-            description: 多平台的 AI 客户端
-            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
+        # - Cherry Studio:
+        #     href: https://www.cherry-ai.com/
+        #     description: 多平台的 AI 客户端
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
