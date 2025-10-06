@@ -26,7 +26,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744905989241_飞书.png
         - LinuxDo:
             href: https://linux.do/
-            description: 一个真诚、友善、团结、专业的社区
+            description: 一个新的理想型社区
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/3hp6/460X460/linuxdo.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
@@ -75,21 +75,21 @@
             href: https://proxy.zhubaiwan.me/
             description: URL 代理服务
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
-        - 百万 API:
-            href: https://api.zhubaiwan.xyz/console/log
-            description: 百万 API 管理
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
         - OuonnkiTV:
             href: https://tv.zhubaiwan.me/
             description: 百万的免费视频网站
             icon: https://ouonnki.site/upload/logo.svg
+        - 百万 API:
+            href: https://api.zhubaiwan.xyz/console/log
+            description: 百万 API 管理
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
         # - gpt-load:
         #     href: https://gpt-load.zhubaiwan-oozzxx.me/
         #     description: 高性能 API 均衡负载
         #     icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/xKaE/1024X1024/gpt-load.png
         - Model-Get: 
             href: https://model-get.zhubaiwan-oozzxx.me/
-            description: 获取模型与生成 NewAPI 模型映射
+            description: 生成 NewAPI 模型映射
             icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
         - BW-model:
             href: https://bw-model.deno.dev/
@@ -207,7 +207,7 @@
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
         - 豆包:
             href: https://www.doubao.com/
-            description: 字节跳动公司开发的大语言模型
+            description: 豆包大语言模型
             icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
         - 文心一言:
             href: https://yiyan.baidu.com/
