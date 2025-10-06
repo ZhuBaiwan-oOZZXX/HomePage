@@ -32,10 +32,14 @@
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
-        - Uni-API:
-            href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
-            description: 统一管理大模型 API
-            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
+        - Gmail:
+            href: https://mail.google.com
+            description: 谷歌邮箱
+            icon: https://imgbed.zhubaiwan.me/file/icons/Gmail.png
+        # - Uni-API:
+        #     href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
+        #     description: 统一管理大模型 API
+        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
         - 安理工一卡通:
             href: http://ecard.aust.edu.cn/epay/
             description: 安徽理工大学官网
@@ -69,16 +73,20 @@
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/QxpY/800X800/Sub-Store.png
         - Cloudflare-Worker-Proxy:
             href: https://proxy.zhubaiwan.me/
-            description: 基于 CF Worker 的 URL 代理服务
+            description: URL 代理服务
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
-        - gpt-load:
-            href: https://gpt-load.zhubaiwan-oozzxx.me/
-            description: 高性能 API 均衡负载
-            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/xKaE/1024X1024/gpt-load.png
+        - OuonnkiTV:
+            href: https://tv.zhubaiwan.me/
+            description: 百万的免费视频网站
+            icon: https://ouonnki.site/upload/logo.svg
+        # - gpt-load:
+        #     href: https://gpt-load.zhubaiwan-oozzxx.me/
+        #     description: 高性能 API 均衡负载
+        #     icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/xKaE/1024X1024/gpt-load.png
         - Model-Get: 
             href: https://model-get.zhubaiwan-oozzxx.me/
             description: 获取模型与生成 NewAPI 模型映射
@@ -181,30 +189,14 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795376085_koofr.png
 
     - 🌈AI 服务:
-        - 豆包:
-            href: https://www.doubao.com/
-            description: 字节跳动公司开发的大语言模型
-            icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
-        - DeepSeek:
-            href: https://chat.deepseek.com/
-            description: 由深度求索开发的智能大语言模型
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
-        - Google AI Studio:
-            href: https://aistudio.google.com/
-            description: Google AI Studio 平台
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google%20AI%20Studio.ico
+        - Copilot:
+            href: https://copilot.microsoft.com/
+            description: Microsoft Copilot 官方
+            icon: https://imgbed.zhubaiwan.me/file/icons/microsoft_copilot.png
         - Duck.ai:
             href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
             description: 由 DuckDuckGo 提供的免费 AI 助手
             icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
-        - Perplexity:
-            href: https://www.perplexity.ai/
-            description: Perplexity AI 搜索
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744913450715_Perplexity.png
-        - 秘塔:
-            href: https://metaso.cn/
-            description: 秘塔 AI 搜索
-            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/c3Ob/1067X654/mita.png
         - QwenChat:
             href: https://chat.qwen.ai/
             description: 阿里 Qwen 官方站点
@@ -213,6 +205,34 @@
             href: https://chat.z.ai/
             description: ChatGLM 官方站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
+        - 豆包:
+            href: https://www.doubao.com/
+            description: 字节跳动公司开发的大语言模型
+            icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
+        - 文心一言:
+            href: https://yiyan.baidu.com/
+            description: 百度公司开发的大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.68.0/files/light/wenxin-color.png
+        # - 当贝 AI:
+        #     href: https://ai.dangbei.com/
+        #     description: 当贝 AI 大模型聚合
+        #     icon: https://simg.doyo.cn/imgfile/bgame/202505/0910003968b3.JPG
+        - Google AI Studio:
+            href: https://aistudio.google.com/
+            description: Google AI Studio 平台
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google%20AI%20Studio.ico
+        - DeepSeek:
+            href: https://chat.deepseek.com/
+            description: 由深度求索开发的智能大语言模型
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
+        - Perplexity:
+            href: https://www.perplexity.ai/
+            description: Perplexity AI 搜索
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744913450715_Perplexity.png
+        - 秘塔:
+            href: https://metaso.cn/
+            description: 秘塔 AI 搜索
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/c3Ob/1067X654/mita.png
         - Kimi:
             href: https://www.kimi.com/
             description: 由 Kimi 公司开发的大语言模型
@@ -221,14 +241,10 @@
             href: https://yuanbao.tencent.com/
             description: 腾讯元宝大语言模型
             icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
-        - LongCat:
-            href: https://longcat.chat/
-            description: 美团龙猫大模型
-            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/OHKC/80X80/longcat.png
-        - 当贝 AI:
-            href: https://ai.dangbei.com/
-            description: 当贝 AI 大模型聚合
-            icon: https://simg.doyo.cn/imgfile/bgame/202505/0910003968b3.JPG
+        # - LongCat:
+        #     href: https://longcat.chat/
+        #     description: 美团龙猫大模型
+        #     icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/OHKC/80X80/longcat.png
         # - Grok 镜像:
         #     href: https://grok.dairoot.cn/admin/
         #     description: 由 xAI 开发的大语言模型
@@ -267,18 +283,18 @@
             href: https://z-library.sk/
             description: Z-library HomePage
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788117323_z-library.png
-        - 安娜的档案:
-            href: https://zh.annas-archive.org/
-            description: 最大的完全开放的图书馆
-            icon: https://cdn-1.webcatalog.io/catalog/annas-archive/annas-archive-icon-filled-256.webp
-        - PING0:
-            href: https://ip.ping0.cc/
-            description: IP 查询检测
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788106820_subscription.png
         - 美国地址生成器:
             href: https://www.meiguodizhi.com/
             description: 生成美国地址与虚拟信息
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/iffR/200X200/%E5%9C%B0%E5%9D%80.png
+        # - 安娜的档案:
+        #     href: https://zh.annas-archive.org/
+        #     description: 最大的完全开放的图书馆
+        #     icon: https://cdn-1.webcatalog.io/catalog/annas-archive/annas-archive-icon-filled-256.webp
+        - PING0:
+            href: https://ip.ping0.cc/
+            description: IP 查询检测
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788106820_subscription.png
         - base64 编码解码:
             href: https://www.toolhelper.cn/EncodeDecode/Base64
             description: base64 编码解码
@@ -287,7 +303,7 @@
             href: https://greasyfork.org/zh-CN
             description: 油猴脚本下载
             icon: https://pic.macked.app/static/2601dfda710c35f87d2673aaf13550bc-1702962186.webp
-        # - Cherry Studio:
-        #     href: https://www.cherry-ai.com/
-        #     description: 多平台的 AI 客户端
-        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
+        - Cherry Studio:
+            href: https://www.cherry-ai.com/
+            description: 多平台的 AI 客户端
+            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
