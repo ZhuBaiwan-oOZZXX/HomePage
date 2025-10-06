@@ -32,9 +32,9 @@
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
-        - Gmail:
+        - Gail:
             href: https://mail.google.com
-            description: 谷歌邮箱
+            description: Gmail 邮箱登录
             icon: https://imgbed.zhubaiwan.me/file/icons/Gmail.png
         # - Uni-API:
         #     href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
@@ -71,7 +71,7 @@
             description: 百万的订阅管理
             # icon: https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/QxpY/800X800/Sub-Store.png
-        - Cloudflare-Worker-Proxy:
+        - Cloudflare-Proxy:
             href: https://proxy.zhubaiwan.me/
             description: URL 代理服务
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/puI6/200X200/proxy_mirror.png
@@ -195,7 +195,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/microsoft_copilot.png
         - Duck.ai:
             href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
-            description: 由 DuckDuckGo 提供的免费 AI 助手
+            description: DuckDuckGo 免费 AI 助手
             icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
         - QwenChat:
             href: https://chat.qwen.ai/
@@ -223,7 +223,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google%20AI%20Studio.ico
         - DeepSeek:
             href: https://chat.deepseek.com/
-            description: 由深度求索开发的智能大语言模型
+            description: 深度求索开发的大语言模型
             icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
         - Perplexity:
             href: https://www.perplexity.ai/
