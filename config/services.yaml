@@ -44,14 +44,14 @@
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
             description: Zone.id 免费域名
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
-        - 安理工一卡通:
-            href: http://ecard.aust.edu.cn/epay/
-            description: 安徽理工大学官网
-            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
         - Bilibili:
             href: https://www.bilibili.com/watchlater/list/
             description: Bilibili 稍后观看列表
             icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
+        - 安理工一卡通:
+            href: http://ecard.aust.edu.cn/epay/
+            description: 安徽理工大学官网
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
         # - Uni-API:
         #     href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
         #     description: 统一管理大模型 API
