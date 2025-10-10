@@ -200,14 +200,14 @@
             href: https://chat.z.ai/
             description: 智谱 GLM 海外站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
+        - Google AI Studio:
+            href: https://aistudio.google.com/
+            description: 使用 Gemini API
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google%20AI%20Studio.ico
         - 豆包:
             href: https://www.doubao.com/
             description: 豆包大语言模型
             icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
-        - Google AI Studio:
-            href: https://aistudio.google.com/
-            description: Google AI Studio 平台
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744912926053_Google%20AI%20Studio.ico
         - Duck.ai:
             href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
             description: DuckDuckGo 免费 AI 助手
