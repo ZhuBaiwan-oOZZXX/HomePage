@@ -32,30 +32,30 @@
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795656277_newapi.png
-        - Gail:
+        - Gmail:
             href: https://mail.google.com
             description: Gmail 邮箱登录
             icon: https://imgbed.zhubaiwan.me/file/icons/Gmail.png
-        - 安理工一卡通:
-            href: http://ecard.aust.edu.cn/epay/
-            description: 安徽理工大学官网
-            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
         - Gist:
             href: https://gist.github.com/mine
-            description: GitHub Gist 代码片段分享
+            description: GitHub Gist 代码片段
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
         - Zone.id:
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
             description: Zone.id 免费域名
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
+        - 安理工一卡通:
+            href: http://ecard.aust.edu.cn/epay/
+            description: 安徽理工大学官网
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/BKTE/200X200/AUST_logo.svg.png
+        - Bilibili:
+            href: https://www.bilibili.com/watchlater/list/
+            description: Bilibili Watchlater List
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
         # - Uni-API:
         #     href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
         #     description: 统一管理大模型 API
         #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
-        # - Bilibili:
-        #     href: https://www.bilibili.com/watchlater/list/
-        #     description: Bilibili Watchlater List
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744904118654_bilibili.png
         # - raw-access:
         #     href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
         #     description: 通过 cloudflare 访问私人仓库
@@ -270,26 +270,26 @@
             href: https://i.chaoxing.com/
             description: 超新学习通
             icon: https://imgbed.zhubaiwan.me/file/icons/1744796056894_学习通.png
-        - 4K 高清壁纸:
-            href: https://haowallpaper.com/
-            description: 4K 高清壁纸免费下载
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788114946_wallpaper.png
-        - Icons:
-            href: https://www.iconfont.cn/
-            description: 阿里巴巴 icons 图标库
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744795791341_ali-icon.png
         - Zlibrary:
             href: https://z-library.sk/
             description: Z-library HomePage
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788117323_z-library.png
+        - 4K 高清壁纸:
+            href: https://haowallpaper.com/
+            description: 4K 高清壁纸免费下载
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788114946_wallpaper.png
+        - 二次元画廊:
+            href: https://pic.cosine.ren/
+            description: 海量二次元图片
+            icon: https://pic.cosine.ren/favicon.ico
+        - Icons:
+            href: https://www.iconfont.cn/
+            description: 阿里巴巴 icons 图标库
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795791341_ali-icon.png
         - 美国地址生成器:
             href: https://www.meiguodizhi.com/
             description: 生成美国地址与虚拟信息
             icon: https://tc.z.wiki/autoupload/F1dJk00XBZ_6bKv7W6dM3xBvV4e-eCpfCDFlwun2bAGyl5f0KlZfm6UsKj-HyTuv/20250705/iffR/200X200/%E5%9C%B0%E5%9D%80.png
-        - PING0:
-            href: https://ip.ping0.cc/
-            description: IP 查询检测
-            icon: https://imgbed.zhubaiwan.me/file/icons/1744788106820_subscription.png
         - base64 编码解码:
             href: https://www.toolhelper.cn/EncodeDecode/Base64
             description: base64 编码解码
@@ -298,10 +298,10 @@
             href: https://greasyfork.org/zh-CN
             description: 油猴脚本下载
             icon: https://pic.macked.app/static/2601dfda710c35f87d2673aaf13550bc-1702962186.webp
-        - Cherry Studio:
-            href: https://www.cherry-ai.com/
-            description: 多平台的 AI 客户端
-            icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
+        # - Cherry Studio:
+        #     href: https://www.cherry-ai.com/
+        #     description: 多平台的 AI 客户端
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
         # - 安娜的档案:
         #     href: https://zh.annas-archive.org/
         #     description: 最大的完全开放的图书馆
@@ -310,3 +310,7 @@
         #     href: https://www.douyin.com/
         #     description: 抖音-记录美好生活
         #     icon: https://imgbed.zhubaiwan.me/file/icons/1746105423714_抖音.png
+        # - PING0:
+        #     href: https://ip.ping0.cc/
+        #     description: IP 查询检测
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788106820_subscription.png
