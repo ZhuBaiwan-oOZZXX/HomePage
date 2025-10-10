@@ -144,19 +144,19 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788096762_github.png
         - Cloudflare:
             href: https://dash.cloudflare.com/
-            description: 全球网络安全与性能优化服务
+            description: 域名托管与 CDN 服务
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788099831_cloudflare.png
         - Huggingface:
             href: https://huggingface.co/
-            description: HuggingFace 大模型学习社区
+            description: 机器学习与数据集开源平台
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788106434_huggingface.png
         - Render:
             href: https://dashboard.render.com/
-            description: Render 云托管平台
+            description: Render 云部署平台
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/Eujj/400X400/zOO1N7Su_400x400.jpg
         - Aliyun:
             href: https://cn.aliyun.com/
-            description: 阿里云云计算服务平台
+            description: 阿里云官网
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788095307_ali.png
         - Deno:
             href: https://dash.deno.com/
@@ -164,7 +164,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788102406_deno.png
         - Vercel:
             href: https://vercel.com/
-            description: Vercel 前端部署和服务平台
+            description: Vercel 前端部署平台
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788114258_vercel.png
         - Zone.id:
             href: https://zone.id/
@@ -176,7 +176,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788102859_aiven.png
         - Koofr:
             href: https://app.koofr.net/
-            description: Koofr 云存储与 WebDAV 服务
+            description: Koofr 云存储与 WebDAV
             icon: https://imgbed.zhubaiwan.me/file/icons/1744795376085_koofr.png
         # - 腾讯云:
         #     href: https://cloud.tencent.com/
@@ -194,11 +194,11 @@
     - 🌈AI 服务:
         - QwenChat:
             href: https://chat.qwen.ai/
-            description: 阿里 Qwen 官方站点
+            description: 阿里 Qwen 海外站点
             icon: https://imgbed.zhubaiwan.me/file/icons/1744913596576_Qwen.png
         - Z.ai:
             href: https://chat.z.ai/
-            description: ChatGLM 官方站点
+            description: 智谱 GLM 海外站点
             icon: https://www.aitags.cn/wp-content/uploads/2025/06/1749144527-image.webp
         - 豆包:
             href: https://www.doubao.com/
@@ -226,11 +226,11 @@
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/c3Ob/1067X654/mita.png
         - Kimi:
             href: https://www.kimi.com/
-            description: 由 Kimi 公司开发的大语言模型
+            description: 月之暗面开发的大语言模型
             icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
         - 腾讯元宝:
             href: https://yuanbao.tencent.com/
-            description: 腾讯元宝大语言模型
+            description: 腾讯官方大语言模型
             icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         # - LongCat:
         #     href: https://longcat.chat/
@@ -272,7 +272,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744796056894_学习通.png
         - Zlibrary:
             href: https://z-library.sk/
-            description: Z-library HomePage
+            description: Z-library 图书下载
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788117323_z-library.png
         - 4K 高清壁纸:
             href: https://haowallpaper.com/
@@ -280,7 +280,7 @@
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788114946_wallpaper.png
         - 二次元画廊:
             href: https://pic.cosine.ren/
-            description: 海量二次元图片
+            description: 海量二次元图片收集
             icon: https://pic.cosine.ren/favicon.ico
         - Icons:
             href: https://www.iconfont.cn/
