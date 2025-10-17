@@ -155,7 +155,7 @@
             description: Render 云部署平台
             icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250728/Eujj/400X400/zOO1N7Su_400x400.jpg
         - Aliyun:
-            href: https://cn.aliyun.com/
+            href: https://home.console.aliyun.com/home/dashboard/ProductAndService
             description: 阿里云官网
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788095307_ali.png
         - Deno:
@@ -208,14 +208,22 @@
             href: https://www.doubao.com/
             description: 豆包大语言模型
             icon: https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png
-        - Duck.ai:
-            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
-            description: DuckDuckGo 免费 AI 助手
-            icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
         - DeepSeek:
             href: https://chat.deepseek.com/
             description: 深度求索开发的大语言模型
             icon: https://imgbed.zhubaiwan.me/file/icons/1744916118621_deepseek.png
+        - Kimi:
+            href: https://www.kimi.com/
+            description: 月之暗面开发的大语言模型
+            icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
+        - HuggingfaceChat:
+            href: https://huggingface.co/chat/
+            description: Huggingface 开源模型体验
+            icon: https://proxy.zhubaiwan.me/https://huggingface.co/chat/huggingchat/logo.svg
+        - Duck.ai:
+            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
+            description: DuckDuckGo 免费 AI 助手
+            icon: https://fullforms.com/images/image/DuckDuckGo_7228.png
         - Perplexity:
             href: https://www.perplexity.ai/
             description: Perplexity AI 搜索
@@ -224,14 +232,10 @@
             href: https://metaso.cn/
             description: 秘塔 AI 搜索
             icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/c3Ob/1067X654/mita.png
-        - Kimi:
-            href: https://www.kimi.com/
-            description: 月之暗面开发的大语言模型
-            icon: https://aimode.co/wp-content/uploads/2025/03/Kimi-AI-Logo.webp
-        - 腾讯元宝:
-            href: https://yuanbao.tencent.com/
-            description: 腾讯官方大语言模型
-            icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
+        # - 腾讯元宝:
+        #     href: https://yuanbao.tencent.com/
+        #     description: 腾讯官方大语言模型
+        #     icon: https://biemoyu.com/wp-content/uploads/2024/06/img_665ca1d0dbc2c.png
         # - LongCat:
         #     href: https://longcat.chat/
         #     description: 美团龙猫大模型
