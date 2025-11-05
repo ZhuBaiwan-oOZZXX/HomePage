@@ -1,0 +1,40 @@
+# doc: https://gethomepage.dev/widgets/
+
+# - resources: # 硬件信息
+#     cpu: true # CPU信息
+#     memory: true # 内存信息
+#     disk: /
+#     cputemp: false # CPU温度
+#     uptime: true # 系统的运行时间信息
+#     expanded: true # 显示扩展视图
+
+- openmeteo:
+    label: 安理💖
+    # 经度 
+    longitude: 117.0271
+    # 纬度
+    latitude: 32.5494
+    # 时区
+    timezone: Asia/Shanghai
+    # 使用公制单位（例如米、千克、摄氏度等）
+    units: metric
+    # 刷新时间（分钟）
+    cache: 5
+
+- greeting:
+    text_size: xl
+    text:  💜百万的 Homepage
+
+- search:
+    provider: [google, duckduckgo, bing, baidu, brave]
+    focus: false 
+    showSearchSuggestions: true
+    # One of _self, _blank, _parent or _top
+    target: _blank
+
+- datetime:
+    text_size: xl
+    format:
+      dateStyle: medium
+      timeStyle: medium
+      hourCycle: h23

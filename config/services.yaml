@@ -1,0 +1,304 @@
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Group 1:
+    - 群组:
+        - 百万的大窝:
+            href: https://qm.qq.com/q/F2b0lzn5wm
+            description: 点击卡片加入群聊【百万的大窝】
+            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/R3G9/512X512/baiwan.png
+            widget:
+                type: calendar
+                firstDayInWeek: sunday # optional - defaults to monday
+                view: monthly # optional - possible values monthly, agenda
+                maxEvents: 10 # optional - defaults to 10
+                showTime: true
+                timezone: Asia/Shanghai
+
+    - 🚀百万常用:
+        # - HomePage 文档:
+        #     href: https://gethomepage.dev/configs/
+        #     description: HomePage 官方文档
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744906160197_homepage.png
+        - 大窝飞书文档:
+            href: https://f0bhyxhlrjd.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
+            description: 百万的大窝群规与分享文档
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744905989241_飞书.png
+        - LinuxDo:
+            href: https://linux.do/
+            description: 一个新的理想型社区
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/3hp6/460X460/linuxdo.png
+        - 百万 API:
+            href: https://api.zhubaiwan.xyz/console/log
+            description: 百万 API 管理
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/newapi-color.png
+        - Gmail:
+            href: https://mail.google.com
+            description: Gmail 邮箱登录
+            icon: https://imgbed.zhubaiwan.me/file/icons/Gmail.png
+        - Bilibili:
+            href: https://www.bilibili.com/watchlater/list/
+            description: B 站稍后观看
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/bilibili-color.png
+        - 安理工一卡通:
+            href: http://ecard.aust.edu.cn/epay/
+            description: 安徽理工大学校园卡充值
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/AUST.png
+        - Gist:
+            href: https://gist.github.com/mine
+            description: GitHub Gist 代码片段
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/github.png
+        - Zone.id:
+            href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
+            description: Zone.id 免费域名
+            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
+        # - Uni-API:
+        #     href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
+        #     description: 统一管理大模型 API
+        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
+        # - raw-access:
+        #     href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
+        #     description: 通过 cloudflare 访问私人仓库
+        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/6WZb/200X200/raw.png
+        # - OpenWebUI:
+        #     href: https://chat.zhubaiwan.me/
+        #     description: 百万的免费 AI 网站
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
+
+    - 🌟百万搭建:
+        - Sub-Store:
+            href: https://sub.zhubaiwan.me/ 
+            description: 百万的订阅管理
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/cc63/ICON/main/Sub-Store.png
+        - Converter:
+            href: https://converter.zhubaiwan.me/
+            description: Clash 订阅转换
+            icon: https://cfimgbase.ggff.net/file/VPN.png
+        - OuonnkiTV:
+            href: https://tv.zhubaiwan.me/
+            description: 百万的免费视频网站
+            icon: https://ouonnki.site/upload/logo.svg
+        - Cloudflare-Proxy:
+            href: https://proxy.zhubaiwan.me/
+            description: URL 代理服务
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/proxy.png
+        - Model-Get: 
+            href: https://model-get.zhubaiwan-oozzxx.me/
+            description: 生成 NewAPI 模型映射
+            icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
+        - BW-model:
+            href: https://bw-model.deno.dev/
+            description: 百万 API 模型列表
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/baiwan.png
+        - 百万图床 (New):
+            href: https://imgbed.zhubaiwan.me/
+            description: 百万的图床 (新)
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
+        - 百万图床 (Outdated):
+            href: https://pic.lovebw.ddns-ip.net/
+            description: 百万的图床 (旧)
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
+        # - OpenWebUI:
+        #     href: https://chat.zhubaiwan.me/
+        #     description: 百万的免费 AI 网站
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
+        # - Cloud Mail:
+        #     href: https://lovebw.ggff.net/
+        #     description: 百万的域名邮箱
+        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/svwP/200X200/email.png
+        # - CloudPaste:
+        #     href: https://cloudpaste.zhubaiwan.me/
+        #     description: 百万的云端剪贴板
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
+
+- Group 2:
+    - ☁️开发工具/服务:
+        - GitHub:
+            href: https://github.com/
+            description: GitHub 代码托管平台
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/github.png
+        - Cloudflare:
+            href: https://dash.cloudflare.com/
+            description: 域名托管与 CDN 服务
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cloudflare-color.png
+        - Huggingface:
+            href: https://huggingface.co/
+            description: 机器学习与数据集开源平台
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/huggingface-color.png
+        - Render:
+            href: https://dashboard.render.com/
+            description: Render 云部署平台
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/render.jpg
+        - Aliyun:
+            href: https://home.console.aliyun.com/home/dashboard/ProductAndService
+            description: 阿里云官网
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/alibabacloud-color.png
+        - Deno:
+            href: https://dash.deno.com/
+            description: Deno 运行时部署平台
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788102406_deno.png
+        - Vercel:
+            href: https://vercel.com/
+            description: Vercel 前端部署平台
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/vercel.png
+        - Zone.id:
+            href: https://zone.id/
+            description: Zone.id 免费域名
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/zoneid.png
+        - Aiven:
+            href: https://console.aiven.io/
+            description: Aiven 免费云数据库
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788102859_aiven.png
+        - Koofr:
+            href: https://app.koofr.net/
+            description: Koofr 云存储与 WebDAV
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795376085_koofr.png
+        # - 腾讯云:
+        #     href: https://cloud.tencent.com/
+        #     description: 腾讯云云计算服务平台
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/tencent-color.png
+        # - Claw Cloud:
+        #     href: https://console.run.claw.cloud/
+        #     description: Claw Cloud 应用部署平台
+        #     icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/vojA/170X170/claw.webp
+        # - Cloudns:
+        #     href: https://www.cloudns.net/
+        #     description: 域名和 DNS 服务提供商
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788097192_cloudns.png
+
+    - 🌈AI 服务:
+        - ChatGPT:
+            href: https://chatgpt.com/
+            description: OpenAI 开发的大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png
+        - Gemini:
+            href: https://gemini.google.com/
+            description: Google 开发的原生多模态大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemini-color.png
+        - Google AI Studio:
+            href: https://aistudio.google.com/
+            description: 使用 Gemini API
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/aistudio.png
+        - Duck.ai:
+            href: https://duckduckgo.com/?q=1&ia=chat&duckai=1
+            description: DuckDuckGo 免费 AI 助手
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/duckduckgo.png
+        - QwenChat:
+            href: https://chat.qwen.ai/
+            description: 阿里 Qwen 海外站点
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/qwen-color.png
+        - Z.ai:
+            href: https://chat.z.ai/
+            description: 智谱 GLM 海外站点
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/zai.png
+        - 豆包:
+            href: https://www.doubao.com/
+            description: 豆包大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/doubao-color.png
+        - Kimi:
+            href: https://www.kimi.com/
+            description: 月之暗面开发的大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/kimi-color.png
+        - DeepSeek:
+            href: https://chat.deepseek.com/
+            description: 深度求索开发的大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/deepseek-color.png
+        - Perplexity:
+            href: https://www.perplexity.ai/
+            description: Perplexity AI 搜索
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/perplexity-color.png
+        # - 秘塔:
+        #     href: https://metaso.cn/
+        #     description: 秘塔 AI 搜索
+        #     icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/mita.png
+        # - 腾讯元宝:
+        #     href: https://yuanbao.tencent.com/
+        #     description: 腾讯官方大语言模型
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/yuanbao-color.png
+        # - LongCat:
+        #     href: https://longcat.chat/
+        #     description: 美团龙猫大模型
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/longcat-color.png
+        # - Grok 镜像:
+        #     href: https://grok.dairoot.cn/admin/
+        #     description: 由 xAI 开发的大语言模型
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/grok.png
+        # - Copilot:
+        #     href: https://copilot.microsoft.com/
+        #     description: Microsoft Copilot 官方
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/githubcopilot.png
+        # - 文心一言:
+        #     href: https://yiyan.baidu.com/
+        #     description: 百度公司开发的大语言模型
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/wenxin-color.png
+        # - 当贝 AI:
+        #     href: https://ai.dangbei.com/
+        #     description: 当贝 AI 大模型聚合
+        #     icon: https://simg.doyo.cn/imgfile/bgame/202505/0910003968b3.JPG
+        # - You.com:
+        #     href: https://you.com/
+        #     description: You.com 的 AI 聚合网站
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1746104251505_you.com.webp
+        # - HuggingfaceChat:
+        #     href: https://huggingface.co/chat/
+        #     description: Huggingface 开源模型体验
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/huggingface-color.png
+
+        
+    - 🛠️常用工具:
+        - 订阅转换:
+            href: https://suburl.v1.mk/
+            description: 订阅转换1
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/converter.png
+        - 订阅转换 2:
+            href: https://singbox.nyc.mn/
+            description: 订阅转换2
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/converter.png
+        - 学习通:
+            href: https://i.chaoxing.com/
+            description: 超新学习通
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744796056894_学习通.png
+        - Zlibrary:
+            href: https://z-library.sk/
+            description: Z-library 图书下载
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788117323_z-library.png
+        - 4K 高清壁纸:
+            href: https://haowallpaper.com/
+            description: 4K 高清壁纸免费下载
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788114946_wallpaper.png
+        - 二次元画廊:
+            href: https://pic.cosine.ren/
+            description: 海量二次元图片收集
+            icon: https://pic.cosine.ren/favicon.ico
+        - Icons:
+            href: https://www.iconfont.cn/
+            description: 阿里巴巴 icons 图标库
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744795791341_ali-icon.png
+        - 美国地址生成器:
+            href: https://www.meiguodizhi.com/
+            description: 生成美国地址与虚拟信息
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/address.png
+        - base64 工具:
+            href: https://www.toolhelper.cn/EncodeDecode/Base64
+            description: base64 编码解码
+            icon: https://imgbed.zhubaiwan.me/file/icons/1744788096424_base64.png
+        - 油猴脚本:
+            href: https://greasyfork.org/zh-CN
+            description: 油猴脚本下载
+            icon: https://pic.macked.app/static/2601dfda710c35f87d2673aaf13550bc-1702962186.webp
+        # - Cherry Studio:
+        #     href: https://www.cherry-ai.com/
+        #     description: 多平台的 AI 客户端
+        #     icon: https://github.eo.bian666.cf/https://raw.githubusercontent.com/CherryHQ/cherry-studio/main/build/icon.png
+        # - 安娜的档案:
+        #     href: https://zh.annas-archive.org/
+        #     description: 最大的完全开放的图书馆
+        #     icon: https://cdn-1.webcatalog.io/catalog/annas-archive/annas-archive-icon-filled-256.webp
+        # - 抖音:
+        #     href: https://www.douyin.com/
+        #     description: 抖音-记录美好生活
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1746105423714_抖音.png
+        # - PING0:
+        #     href: https://ip.ping0.cc/
+        #     description: IP 查询检测
+        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788106820_subscription.png
