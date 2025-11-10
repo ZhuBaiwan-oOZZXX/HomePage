@@ -1,1 +1,3 @@
-app_port: 3000
+环境变量添加：
+
+HOMEPAGE_ALLOWED_HOSTS=*
