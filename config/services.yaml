@@ -6,7 +6,7 @@
         - 百万的大窝:
             href: https://qm.qq.com/q/F2b0lzn5wm
             description: 点击卡片加入群聊【百万的大窝】
-            icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/R3G9/512X512/baiwan.png
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/dawo.png
             widget:
                 type: calendar
                 firstDayInWeek: sunday # optional - defaults to monday
@@ -27,7 +27,7 @@
         - LinuxDo:
             href: https://linux.do/
             description: 一个新的理想型社区
-            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/3hp6/460X460/linuxdo.png
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/linuxdo.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
             description: 百万 API 管理
@@ -51,15 +51,7 @@
         - Zone.id:
             href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
             description: Zone.id 免费域名
-            icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/l4SL/200X200/zoneid.png
-        # - Uni-API:
-        #     href: https://huggingface.co/spaces/shiwan7788/leaderboard/settings
-        #     description: 统一管理大模型 API
-        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250831/6FGX/1024X1024/uni-api.ico
-        # - raw-access:
-        #     href: https://github.com/ZhuBaiwan-oOZZXX/baiwan-raw
-        #     description: 通过 cloudflare 访问私人仓库
-        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/6WZb/200X200/raw.png
+            icon: https://my.zone.id/subzoneid.png
         # - OpenWebUI:
         #     href: https://chat.zhubaiwan.me/
         #     description: 百万的免费 AI 网站
@@ -89,7 +81,7 @@
         - BW-model:
             href: https://bw-model.deno.dev/
             description: 百万 API 模型列表
-            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/baiwan.png
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/dawo.png
         - 百万图床 (New):
             href: https://imgbed.zhubaiwan.me/
             description: 百万的图床 (新)
@@ -98,18 +90,6 @@
             href: https://pic.lovebw.ddns-ip.net/
             description: 百万的图床 (旧)
             icon: https://imgbed.zhubaiwan.me/file/icons/1744788095038_CloudFlare-ImgBed.png
-        # - OpenWebUI:
-        #     href: https://chat.zhubaiwan.me/
-        #     description: 百万的免费 AI 网站
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1744788103769_openwebui.png
-        # - Cloud Mail:
-        #     href: https://lovebw.ggff.net/
-        #     description: 百万的域名邮箱
-        #     icon: https://tc.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/svwP/200X200/email.png
-        # - CloudPaste:
-        #     href: https://cloudpaste.zhubaiwan.me/
-        #     description: 百万的云端剪贴板
-        #     icon: https://imgbed.zhubaiwan.me/file/icons/1745135835771_cloudpaste.png
 
 - Group 2:
     - ☁️开发工具/服务:
@@ -160,7 +140,7 @@
         # - Claw Cloud:
         #     href: https://console.run.claw.cloud/
         #     description: Claw Cloud 应用部署平台
-        #     icon: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250807/vojA/170X170/claw.webp
+        #     icon: 
         # - Cloudns:
         #     href: https://www.cloudns.net/
         #     description: 域名和 DNS 服务提供商

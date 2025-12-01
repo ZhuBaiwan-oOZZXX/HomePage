@@ -1,7 +1,7 @@
 title: HomePage
 description: 百万的个人主页
 language: zh-CN
-favicon: https://imgbed.zhubaiwan.me/file/icons/1744806223771_百万.ico
+favicon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/baiwan.png
 
 hideVersion: false
 disableUpdateCheck: true
@@ -26,7 +26,7 @@ headerStyle: boxed
 useEqualHeights: true
 
 background: 
-  image: https://tc-new.z.wiki/autoupload/f/walXAp4Sav94xqwTB9S6BMoKOuqHx97M6G9c8juTwKuyl5f0KlZfm6UsKj-HyTuv/20250810/jZ1V/3840X2160/cover.png
+  image: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/background/blue.png
   # 不透明度｜可以选择值为 0-100
   opacity: 30
   # blur: sm # 模糊度｜sm（小）｜md（中等）｜xl（大）｜0（无模糊）
