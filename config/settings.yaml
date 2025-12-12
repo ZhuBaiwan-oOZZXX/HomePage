@@ -1,7 +1,7 @@
 title: HomePage
 description: 百万的个人主页
 language: zh-CN
-favicon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/baiwan.png
+favicon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/baiwan.png
 
 hideVersion: false
 disableUpdateCheck: true
@@ -26,7 +26,7 @@ headerStyle: boxed
 useEqualHeights: true
 
 background: 
-  image: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/master/icons/background/blue.png
+  image: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/background/blue.png
   # 不透明度｜可以选择值为 0-100
   opacity: 30
   # blur: sm # 模糊度｜sm（小）｜md（中等）｜xl（大）｜0（无模糊）
