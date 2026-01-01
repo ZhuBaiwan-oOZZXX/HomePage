@@ -30,7 +30,7 @@
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/linuxdo.png
         - 百万 API:
             href: https://api.zhubaiwan.xyz/console/log
-            description: 百万 API 管理
+            description: 百万的 NewAPI
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/newapi-color.png
         - Gmail:
             href: https://mail.google.com
@@ -88,7 +88,7 @@
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/dawo.png
         - 百万图床:
             href: https://img.baiwan.de
-            description: 百万的图床 (新)
+            description: 百万的图床
             icon: https://cfbed.sanyue.de/logo.png
         - Cloudflare-Proxy:
             href: https://proxy.baiwan.de
@@ -103,19 +103,19 @@
     - ☁️开发工具/服务:
         - GitHub:
             href: https://github.com
-            description: GitHub 代码托管平台
+            description: 代码托管与软件开发协作平台
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/github.png
         - Huggingface:
             href: https://huggingface.co
-            description: 机器学习与数据集开源平台
+            description: 人工智能开源平台与社区
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/huggingface-color.png
         - Cloudflare:
             href: https://dash.cloudflare.com
-            description: 域名托管与 CDN 服务
+            description: 遍布全球的边缘网络
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/cloudflare-color.png
         - Deno:
             href: https://dash.deno.com
-            description: Deno 运行时部署平台
+            description: 安全优先的 TS/JS 运行时
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/deno.png
         - Aliyun:
             href: https://home.console.aliyun.com/home/dashboard/ProductAndService
@@ -123,7 +123,7 @@
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/alibabacloud-color.png
         - 腾讯云:
             href: https://cloud.tencent.com
-            description: 腾讯云云计算服务平台
+            description: 腾讯云官网
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/tencent-color.png
         - Render:
             href: https://dashboard.render.com
@@ -131,11 +131,11 @@
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/render.jpg
         - Vercel:
             href: https://vercel.com
-            description: Vercel 前端部署平台
+            description: Vercel 前端云平台
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/vercel.png
         - Aiven:
             href: https://console.aiven.io
-            description: Aiven 免费云数据库
+            description: Aiven 免费数据库
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/aiven.ico
         - Koofr:
             href: https://app.koofr.net
@@ -251,7 +251,7 @@
             icon: https://img.alicdn.com/imgextra/i4/O1CN01XZe8pH1USpiUNT1QN_!!6000000002517-2-tps-114-114.png
         - 美国地址生成器:
             href: https://www.meiguodizhi.com
-            description: 生成美国地址与虚拟信息
+            description: 生成虚拟的美国地址
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/address.png
         - base64 工具:
             href: https://www.toolhelper.cn/EncodeDecode/Base64
