@@ -36,14 +36,14 @@
             href: https://mail.google.com
             description: Gmail 邮箱登录
             icon: https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
-        - Bilibili:
-            href: https://www.bilibili.com/watchlater/list
-            description: B 站稍后观看
-            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/bilibili-color.png
         - 安理工一卡通:
             href: http://ecard.aust.edu.cn/epay
             description: 安徽理工大学校园卡充值
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/AUST.png
+        - ITDOG:
+            href: https://www.itdog.cn/tcping/
+            description: 网络延迟测试
+            icon: https://www.itdog.cn/favicon.ico
         - Gist:
             href: https://gist.github.com/mine
             description: GitHub Gist 代码片段
@@ -56,6 +56,10 @@
         #     href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
         #     description: Zone.id 免费域名
         #     icon: https://my.zone.id/subzoneid.png
+        # - Bilibili:
+        #     href: https://www.bilibili.com/watchlater/list
+        #     description: B 站稍后观看
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/bilibili-color.png
 
     - 🌟百万搭建:
         - PurePage:
@@ -75,14 +79,14 @@
             description: 免费小火箭 Apple 账号
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/shadowrocket.png
         - Model-Get: 
-            href: https://model-get.zhubaiwan-oozzxx.me
+            href: https://model-get.baiwan.de
             description: 生成 NewAPI 模型映射
             icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
         - BW-model:
             href: https://bw-model.deno.dev
             description: 百万 API 模型列表
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/dawo.png
-        - 百万图床 (New):
+        - 百万图床:
             href: https://img.baiwan.de
             description: 百万的图床 (新)
             icon: https://cfbed.sanyue.de/logo.png
@@ -157,15 +161,15 @@
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png
         - Gemini:
             href: https://gemini.google.com
-            description: Google 开发的多模态大模型
+            description: Gemini 多模态大模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/gemini-color.png
         - Google AI Studio:
             href: https://aistudio.google.com
-            description: 使用 Gemini API
+            description: Gemini AI Studio
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/aistudio.png
         - Duck.ai:
             href: https://duck.ai
-            description: DuckDuckGo 免费 AI 助手
+            description: DuckDuckGo 免费 AI
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/duckduckgo.png
         - QwenChat:
             href: https://chat.qwen.ai
@@ -179,18 +183,18 @@
             href: https://www.doubao.com
             description: 豆包大语言模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/doubao-color.png
+        - DeepSeek:
+            href: https://chat.deepseek.com
+            description: DeepSeek 大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/deepseek-color.png
         - Kimi:
             href: https://www.kimi.com
-            description: 月之暗面开发的大语言模型
+            description: Kimi 大语言模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/kimi-color.png
         - 文心一言:
             href: https://ernie.baidu.com
-            description: 百度公司开发的大语言模型
+            description: 文心一言大语言模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/wenxin-color.png
-        - DeepSeek:
-            href: https://chat.deepseek.com
-            description: 深度求索开发的大语言模型
-            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/deepseek-color.png
         # - Perplexity:
         #     href: https://www.perplexity.ai
         #     description: Perplexity AI 搜索
@@ -201,11 +205,11 @@
         #     icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/mita.png
         # - 腾讯元宝:
         #     href: https://yuanbao.tencent.com
-        #     description: 腾讯官方大语言模型
+        #     description: 腾讯混元大语言模型
         #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/yuanbao-color.png
         # - LongCat:
         #     href: https://longcat.chat
-        #     description: 美团龙猫大模型
+        #     description: 美团龙猫大语言模型
         #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/longcat-color.png
         # - Copilot:
         #     href: https://copilot.microsoft.com
@@ -218,35 +222,35 @@
         
     - 🛠️常用工具:
         - 订阅转换:
-            href: https://subweb.7li7li.com/
-            description: 订阅转换1
+            href: https://subweb.7li7li.com
+            description: 7li7li 大佬的订阅转换
             icon: https://subweb.7li7li.com/favicons/favicon.ico
-        - 订阅转换 2:
-            href: https://singbox.nyc.mn/
-            description: 订阅转换2
+        - Sublink:
+            href: https://app.sublink.works
+            description: sublink 订阅转换
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/converter.png
         - 学习通:
-            href: https://i.chaoxing.com/
+            href: https://i.chaoxing.com
             description: 超新学习通
             icon: https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/8f/80/068f80f1-0a32-9d22-55d7-79e740da32ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/200x200ia-75.webp
         - Zlibrary:
-            href: https://z-library.sk/
+            href: https://z-library.sk
             description: Z-library 图书下载
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/z-library.png
         - 4K 高清壁纸:
-            href: https://haowallpaper.com/
+            href: https://haowallpaper.com
             description: 4K 高清壁纸免费下载
             icon: https://haowallpaper.com/favicon.ico
         - 二次元画廊:
-            href: https://pic.cosine.ren/
+            href: https://pic.cosine.ren
             description: 海量二次元图片收集
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/cosine.ico
         - Icons:
-            href: https://www.iconfont.cn/
+            href: https://www.iconfont.cn
             description: 阿里巴巴 icons 图标库
             icon: https://img.alicdn.com/imgextra/i4/O1CN01XZe8pH1USpiUNT1QN_!!6000000002517-2-tps-114-114.png
         - 美国地址生成器:
-            href: https://www.meiguodizhi.com/
+            href: https://www.meiguodizhi.com
             description: 生成美国地址与虚拟信息
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/address.png
         - base64 工具:
