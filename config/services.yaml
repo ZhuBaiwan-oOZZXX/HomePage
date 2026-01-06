@@ -69,7 +69,7 @@
         - OuonnkiTV:
             href: https://tv.baiwan.de
             description: 百万的免费视频网站
-            icon: https://tv.ouonnki.site/favicon.ico
+            icon: https://cdn.ouonnki.site/gh/Ouonnki/blog-pictures/posts/logo.svg
         - shadowrocket 账号:
             href: https://apple-id.deno.dev
             description: 免费小火箭 Apple 账号
@@ -78,22 +78,22 @@
             href: https://converter.baiwan.de
             description: Clash 订阅转换
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/converter.png
+        - NewAPI Mapping: 
+            href: https://mapping.baiwan.de
+            description: 生成 NewAPI 模型映射
+            icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
         - BW-model:
             href: https://bw-model.deno.dev
             description: 百万 API 模型列表
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/dawo.png
-        - Model-Get: 
-            href: https://model-get.baiwan.de
-            description: 生成 NewAPI 模型映射
-            icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
-        - 百万图床:
-            href: https://img.baiwan.de
-            description: 百万的图床
-            icon: https://cfbed.sanyue.de/logo.png
         - Cloudflare-Proxy:
             href: https://proxy.baiwan.de
             description: URL 代理服务
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/proxy.png
+        - 百万图床:
+            href: https://img.baiwan.de
+            description: 百万的图床
+            icon: https://cfbed.sanyue.de/logo.png
         # - Sub-Store:
         #     href: https://sub.zhubaiwan.me
         #     description: 百万的订阅管理
