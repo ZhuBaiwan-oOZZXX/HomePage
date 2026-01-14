@@ -43,7 +43,7 @@
         - ITDOG:
             href: https://www.itdog.cn/tcping/
             description: 网络延迟测试
-            icon: https://www.itdog.cn/favicon.ico
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/itdog.ico
         - Gist:
             href: https://gist.github.com/mine
             description: GitHub Gist 代码片段
