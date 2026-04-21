@@ -8,18 +8,18 @@
             description: 点击卡片加入群聊【百万的大窝】
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/dawo.png
             widget:
-                type: calendar
-                firstDayInWeek: sunday # optional - defaults to monday
-                view: monthly # optional - possible values monthly, agenda
-                maxEvents: 10 # optional - defaults to 10
-                showTime: true
-                timezone: Asia/Shanghai
+              type: calendar
+              firstDayInWeek: sunday # optional - defaults to monday
+              view: monthly # optional - possible values monthly, agenda
+              maxEvents: 10 # optional - defaults to 10
+              showTime: true
+              timezone: Asia/Shanghai
 
     - 🚀百万常用:
-        # - HomePage 文档:
-        #     href: https://gethomepage.dev/configs/
-        #     description: HomePage 官方文档
-        #     icon: 
+        - HomePage 文档:
+            href: https://gethomepage.dev/configs/
+            description: HomePage 官方文档
+            icon: https://gethomepage.dev/assets/favicon.ico
         - 大窝飞书文档:
             href: https://ai.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
             description: 百万的大窝群规与分享文档
@@ -28,10 +28,6 @@
             href: https://linux.do
             description: 一个新的理想型社区
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/linuxdo.png
-        - 百万 API:
-            href: https://api.zhubaiwan.xyz/console/log
-            description: 百万的 NewAPI
-            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/newapi-color.png
         - Gmail:
             href: https://mail.google.com
             description: Gmail 邮箱登录
@@ -69,21 +65,21 @@
         - OuonnkiTV:
             href: https://tv.baiwan.de
             description: 百万的免费视频网站
-            icon: https://cdn.ouonnki.site/gh/Ouonnki/blog-pictures/posts/logo.svg
+            icon: https://tv.ouonnki.com/favicon.ico
         - shadowrocket 账号:
-            href: https://apple-id.deno.dev
+            href: https://apple-id.baiwan.deno.net
             description: 免费小火箭 Apple 账号
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/shadowrocket.webp
         - Converter:
             href: https://converter.baiwan.de
             description: Clash 订阅转换
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/converter.png
-        - NewAPI Mapping: 
+        - NewAPI Mapping:
             href: https://mapping.baiwan.de
             description: 生成 NewAPI 模型映射
             icon: https://img.icons8.com/?size=200&id=POBc2SrrhhnF&format=png
         - BW-model:
-            href: https://bw-model.deno.dev
+            href: https://models.baiwan.de
             description: 百万 API 模型列表
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/dawo.png
         - Cloudflare-Proxy:
@@ -94,6 +90,10 @@
             href: https://img.baiwan.de
             description: 百万的图床
             icon: https://cfbed.sanyue.de/logo.png
+        # - 百万 API:
+        #     href: https://api.zhubaiwan.xyz/console/log
+        #     description: 百万的 NewAPI
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/newapi-color.png
         # - Sub-Store:
         #     href: https://sub.zhubaiwan.me
         #     description: 百万的订阅管理
@@ -148,11 +148,11 @@
         # - Claw Cloud:
         #     href: https://console.run.claw.cloud
         #     description: Claw Cloud 应用部署平台
-        #     icon: 
+        #     icon:
         # - Cloudns:
         #     href: https://www.cloudns.net
         #     description: 域名和 DNS 服务提供商
-        #     icon: 
+        #     icon:
 
     - 🌈AI 服务:
         - ChatGPT:
@@ -219,7 +219,7 @@
         #     href: https://ai.dangbei.com
         #     description: 当贝 AI 大模型聚合
         #     icon: https://simg.doyo.cn/imgfile/bgame/202505/0910003968b3.JPG
-        
+
     - 🛠️常用工具:
         - 订阅转换:
             href: https://subweb.7li7li.com
@@ -245,10 +245,10 @@
             href: https://pic.cosine.ren
             description: 海量二次元图片收集
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/cosine.ico
-        - Icons:
-            href: https://www.iconfont.cn
-            description: 阿里巴巴 icons 图标库
-            icon: https://img.alicdn.com/imgextra/i4/O1CN01XZe8pH1USpiUNT1QN_!!6000000002517-2-tps-114-114.png
+        - TikTok:
+            href: https://www.tiktok.com
+            description: TikTok-记录美好生活
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/tiktok.png
         - 美国地址生成器:
             href: https://www.meiguodizhi.com
             description: 生成虚拟的美国地址
@@ -261,6 +261,10 @@
             href: https://greasyfork.org/zh-CN
             description: 油猴脚本下载
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/tampermonkey.png
+        # - Icons:
+        #     href: https://www.iconfont.cn
+        #     description: 阿里巴巴 icons 图标库
+        #     icon: https://img.alicdn.com/imgextra/i4/O1CN01XZe8pH1USpiUNT1QN_!!6000000002517-2-tps-114-114.png
         # - 安娜的档案:
         #     href: https://zh.annas-archive.org/
         #     description: 最大的完全开放的图书馆
@@ -268,8 +272,4 @@
         # - 抖音:
         #     href: https://www.douyin.com/
         #     description: 抖音-记录美好生活
-        #     icon: 
-        # - PING0:
-        #     href: https://ip.ping0.cc/
-        #     description: IP 查询检测
-        #     icon: 
+        #     icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/tiktok.png

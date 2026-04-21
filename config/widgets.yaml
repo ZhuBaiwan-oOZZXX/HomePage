@@ -10,7 +10,7 @@
 
 - openmeteo:
     label: 安理💖
-    # 经度 
+    # 经度
     longitude: 117.0271
     # 纬度
     latitude: 32.5494
@@ -23,11 +23,11 @@
 
 - greeting:
     text_size: xl
-    text:  💜百万的 Homepage
+    text: 💜百万的 Homepage
 
 - search:
     provider: [google, duckduckgo, bing, baidu, brave]
-    focus: false 
+    focus: true
     showSearchSuggestions: true
     # One of _self, _blank, _parent or _top
     target: _blank
