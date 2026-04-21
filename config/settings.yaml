@@ -20,7 +20,7 @@ quicklaunch:
   provider: google
 
 theme: dark
-color: rose
+color: slate
 headerStyle: boxed
 # 等高卡
 useEqualHeights: true
