@@ -20,10 +20,10 @@
             href: https://gethomepage.dev/configs/
             description: HomePage 官方文档
             icon: https://gethomepage.dev/assets/favicon.ico
-        - 大窝飞书文档:
-            href: https://ai.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
-            description: 百万的大窝群规与分享文档
-            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/feishu.png
+        - QQ 邮箱:
+            href: https://wx.mail.qq.com
+            description: QQ 邮箱登录
+            icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/qq-mail.png
         - LinuxDo:
             href: https://linux.do
             description: 一个新的理想型社区
@@ -48,6 +48,10 @@
             href: https://iplark.com
             description: IP 质量检测
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/iplark.ico
+        # - 大窝飞书文档:
+        #     href: https://ai.feishu.cn/wiki/E4JfwScP8i58Pbkzmqgcukjanhe
+        #     description: 百万的大窝群规与分享文档
+        #     icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/feishu.png
         # - Zone.id:
         #     href: https://my.zone.id/subdomains/2gi4bfiq/url_forwarder/
         #     description: Zone.id 免费域名
@@ -58,7 +62,7 @@
         #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/bilibili-color.png
 
     - 🌟百万搭建:
-        - PurePage:
+        - Docsify:
             href: https://ds.baiwan.de
             description: 百万的博客
             icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/docsify.svg
@@ -191,10 +195,14 @@
             href: https://www.kimi.com
             description: Kimi 大语言模型
             icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/kimi-color.png
-        - 文心一言:
-            href: https://ernie.baidu.com
-            description: 文心一言大语言模型
-            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/wenxin-color.png
+        - 腾讯元宝:
+            href: https://yuanbao.tencent.com
+            description: 腾讯混元大语言模型
+            icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/yuanbao-color.png
+        # - 文心一言:
+        #     href: https://ernie.baidu.com
+        #     description: 文心一言大语言模型
+        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/wenxin-color.png
         # - Perplexity:
         #     href: https://www.perplexity.ai
         #     description: Perplexity AI 搜索
@@ -203,10 +211,6 @@
         #     href: https://metaso.cn
         #     description: 秘塔 AI 搜索
         #     icon: https://gh-proxy.com/https://raw.githubusercontent.com/ZhuBaiwan-oOZZXX/HomePage/main/icons/mita.png
-        # - 腾讯元宝:
-        #     href: https://yuanbao.tencent.com
-        #     description: 腾讯混元大语言模型
-        #     icon: https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/yuanbao-color.png
         # - LongCat:
         #     href: https://longcat.chat
         #     description: 美团龙猫大语言模型
