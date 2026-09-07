@@ -11,9 +11,9 @@
 - openmeteo:
     label: 安理💖
     # 经度
-    longitude: 117.0271
+    longitude: 117.0236
     # 纬度
-    latitude: 32.5494
+    latitude: 32.5496
     # 时区
     timezone: Asia/Shanghai
     # 使用公制单位（例如米、千克、摄氏度等）
